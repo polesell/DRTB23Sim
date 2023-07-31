@@ -4,7 +4,7 @@
 #include "G4SystemOfUnits.hh"
 
 namespace { 
-
+    //
     // module constants
     static constexpr G4int NofmodulesX = 3; 
     static constexpr G4int NofmodulesY = 3;
